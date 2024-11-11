@@ -21,3 +21,9 @@
 補充. Terminal 不見可從上方 View -> Terminal 叫出
 
 ![alt text](image-3.png)
+
+
+![image](https://github.com/user-attachments/assets/45fde04d-380b-4408-8149-c34c4261c6ed)
+![image](https://github.com/user-attachments/assets/3b9a9045-5880-4d93-b8fe-b561045d0895)
+
+
