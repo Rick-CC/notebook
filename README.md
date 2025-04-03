@@ -4,7 +4,7 @@
 
 
 * ## Computer Language
-  * ### [labview](<README.md> "Title")
+  * ### [labview](<./language/labview/labview.md> "Title")
 
 * ## tips
   * ###  [vscode](<./tips/vscode/vscode.md> "Title")
